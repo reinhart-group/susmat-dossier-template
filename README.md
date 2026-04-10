@@ -1,8 +1,11 @@
 # Sus-Mat NRT Training Dossier
 
 **Student:** [Your Name]
+
 **PSU ID:** [Your PSU ID]
+
 **Program:** Sustainable Materials through Systems-Informed Thinking (Sus-Mat NRT)
+
 **Institution:** The Pennsylvania State University
 
 ## About This Repository
@@ -32,4 +35,4 @@ Reference: Lai et al., "Upcycling plastic waste into fully recyclable composites
 
 ---
 
-*This dossier was created as part of the [Sus-Mat NRT](https://susmat.psu.edu) training program.*
+*This dossier was created as part of the [Sus-Mat NRT](https://susmat-nrt.web.app/) training program.*
