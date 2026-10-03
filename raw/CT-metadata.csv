@@ -1,6 +1,3 @@
-# SUS-MAT NRT TRAINING DATA - SKELETON VERSION
-# Source: X-ray micro-CT scan sessions — GE v|tome|x L300
-# Note: scan_id is assigned by scan order, NOT by specimen batch
 scan_id,date,instrument,voltage_kV,current_uA,voxel_um,n_slices,software,threshold_method,operator,notes
 CT-001,2024-03-18,GE vtomex L300,120,60,7.5,100,AVIZO 2021.1,Otsu,P. Lai,
 CT-002,2024-03-18,GE vtomex L300,120,60,7.5,100,AVIZO 2021.1,Otsu,P. Lai,
