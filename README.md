@@ -2,8 +2,6 @@
 
 **Program:** Sustainable Materials through Systems-Informed Thinking (Sus-Mat NRT)
 
-**Institution:** The Pennsylvania State University
-
 ## About This Repository
 
 Practice project for the Sus-Mat RDM micro-credential. Contains a synthetic PP/CaSO4 cold-sintering dataset with three deliberate problems (disconnected identifiers, a mixed-unit column, and missing values) for hands-on data management exercises.
